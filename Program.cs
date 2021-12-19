@@ -45,16 +45,33 @@ namespace FibbonachiSeries
             R1.SolutionForReverseNumber();
             */
 
-
+            /*
             //Coupon Number
 
             Console.Write("enter the Number ");
             Start = Console.ReadLine();
 
+            */
 
+            // Create new stopwatch
+            int min = 0;
+            int sec = 0;
+            int hr = 0;
+            while (min <= 59)
+                while (sec <= 59)
+                {
+                    Console.WriteLine(sec);
 
+                    sec++;
 
+                    if (sec == 59)
+                    {
+                        min = min + 1;
 
+                    }
+
+                }
         }
     } 
+
 }

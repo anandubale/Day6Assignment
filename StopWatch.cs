@@ -11,6 +11,11 @@ namespace Day6Asssignments
         //fields
 
         string Start;
+        int ms = 0;
+        int s = 0;
+        int m = 0;
+        int h = 0;
+
 
         //contructor
         public StopWatch(string START)
@@ -21,14 +26,25 @@ namespace Day6Asssignments
         //method
         public void SolutionForStopWatch()
         {
-            for ()
+
+            if (s == 59)
+            {
+                s = 0;
+                m = m + 1;
+                if (m == 59)
+                {
+                    m = 0;
+                    h = h + 1;
+
+
+
+
+
+
+
+
+                }
+            }
         }
-
-
-
-
-
-
-
     }
 }
