@@ -1,0 +1,15 @@
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\bin\Debug\net5.0\FibbonachiSeries.exe
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\bin\Debug\net5.0\FibbonachiSeries.deps.json
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\bin\Debug\net5.0\FibbonachiSeries.runtimeconfig.json
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\bin\Debug\net5.0\FibbonachiSeries.runtimeconfig.dev.json
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\bin\Debug\net5.0\FibbonachiSeries.dll
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\bin\Debug\net5.0\ref\FibbonachiSeries.dll
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\bin\Debug\net5.0\FibbonachiSeries.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\obj\Debug\net5.0\FibbonachiSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\obj\Debug\net5.0\FibbonachiSeries.AssemblyInfoInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\obj\Debug\net5.0\FibbonachiSeries.AssemblyInfo.cs
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\obj\Debug\net5.0\FibbonachiSeries.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\obj\Debug\net5.0\FibbonachiSeries.dll
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\obj\Debug\net5.0\ref\FibbonachiSeries.dll
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\obj\Debug\net5.0\FibbonachiSeries.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\obj\Debug\net5.0\FibbonachiSeries.genruntimeconfig.cache

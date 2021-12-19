@@ -1,0 +1,16 @@
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\bin\Debug\net5.0\Day6Asssignments.exe
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\bin\Debug\net5.0\Day6Asssignments.deps.json
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\bin\Debug\net5.0\Day6Asssignments.runtimeconfig.json
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\bin\Debug\net5.0\Day6Asssignments.runtimeconfig.dev.json
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\bin\Debug\net5.0\Day6Asssignments.dll
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\bin\Debug\net5.0\ref\Day6Asssignments.dll
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\bin\Debug\net5.0\Day6Asssignments.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\obj\Debug\net5.0\Day6Asssignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\obj\Debug\net5.0\Day6Asssignments.AssemblyInfoInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\obj\Debug\net5.0\Day6Asssignments.AssemblyInfo.cs
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\obj\Debug\net5.0\Day6Asssignments.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\obj\Debug\net5.0\Day6Asssignments.dll
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\obj\Debug\net5.0\ref\Day6Asssignments.dll
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\obj\Debug\net5.0\Day6Asssignments.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\obj\Debug\net5.0\Day6Asssignments.genruntimeconfig.cache
+C:\Users\anand\Desktop\Bridgelabz\Day6Assignment\FibbonachiSeries\FibbonachiSeries\obj\Debug\net5.0\Day6Asssignments.csproj.AssemblyReference.cache
